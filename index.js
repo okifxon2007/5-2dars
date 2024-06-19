@@ -152,18 +152,24 @@
 
 
 
-// const objk = function (obj){
-    
-//         const res = Object.entries(objectkey);
-//         return res
-    
-// }
-// console.log(objk(objectkey));
+// let test = Object.entries(objectkey);
+// console.log(test);
 
 
 
 // 4masala
-// savolga tushunmadim va ishlay olmadim
+
+// let objectkey = {
+//     name:'javlon',
+//     age:30
+// };
+
+
+
+// let test = Object.freezes(objectkey);
+
+// console.log(test);
+
 
 
 
